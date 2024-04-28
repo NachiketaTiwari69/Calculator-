@@ -7,7 +7,7 @@
 
 .main {
     height: 100vh;
-    background-color: aliceblue;
+    background-color: rgb(75, 75, 75);
     display: flex;
     align-items: center;
     justify-content: center;
